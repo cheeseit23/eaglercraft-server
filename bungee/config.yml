@@ -56,3 +56,7 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: cheeseit23.aternos.me:37445
    restricted: false
+    oneblock:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: ftp.minefort.com:21
+    
