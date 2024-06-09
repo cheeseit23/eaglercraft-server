@@ -48,15 +48,3 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: localhost:25565
     restricted: false
- lifesteal:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: emerald.magmanode.com:26458
-    restricted: false
-     anarchy server:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: cheeseit23.aternos.me:37445
-   restricted: false
-    oneblock:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: ftp.minefort.com:21
-    
