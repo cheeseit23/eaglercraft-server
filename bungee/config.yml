@@ -50,7 +50,9 @@ servers:
     restricted: false
  lifesteal:
     motd: '&1Just another Waterfall - Forced Host'
-    address: emerald.magmanode.com:26458  restricted: false
+    address: emerald.magmanode.com:26458
+    restricted: false
      anarchy server:
     motd: '&1Just another Waterfall - Forced Host'
     address: cheeseit23.aternos.me:37445
+   restricted: false
